@@ -1,23 +1,23 @@
 criaCartao(
+    'Valorant',
+    'Qual a classe que contem as smokes?',
+    'A classe de controladores'
+)
+
+criaCartao(
+    'Futebol',
+    'Quem ganhou a copa de 1998?',
+    'O ganhador foi a seleção francesa'
+)
+
+criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'O que é C#?',
+    'O C# é uma linguagem de programação'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
-)
-
-criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
-)
-
-criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'História',
+    'Quando ocorreu a primeira guerra mundial?',
+    'Ocorreu entre 1914-1918'
 )
